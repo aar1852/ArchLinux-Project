@@ -26,8 +26,8 @@ Professor Justin Miller
 4.	Find the VMWare Workstation Pro for Personal Use that works for you (Linux or Windows).
 5.	Download.
 6.  Compare the SHA256 hash:
-    - Provided:2c3a40993a450dc9a059563d07664fc0fb85ae398a57d22b1b4bf0e602417bf7
-    - Generated:2c3a40993a450dc9a059563d07664fc0fb85ae398a57d22b1b4bf0e602417bf7
+    - Provided: 2c3a40993a450dc9a059563d07664fc0fb85ae398a57d22b1b4bf0e602417bf7
+    - Generated: 2c3a40993a450dc9a059563d07664fc0fb85ae398a57d22b1b4bf0e602417bf7
 7.	Run the installer (exe file).
 8.	Pick Typical or Custom.
 9.	Follow the on-screen directions.
