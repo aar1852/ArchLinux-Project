@@ -34,13 +34,12 @@ Install Docker packages (I installed the latest version):
 
       sudo apt-get install docker-ce docker-ce-cli containerd.io docker-buildx-plugin docker-compose-plugin
 
-Verify:
 
 Verify Docker Compose is installed:
 
       docker compose version
 
-## Get/start container:
+## Get/Start container:
 
       sudo docker run -d -p 443:443 --name openvas mikesplain/openvas
 
