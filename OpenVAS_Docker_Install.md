@@ -1,7 +1,7 @@
 # OpenVAS/Greenbone Docker Install
 Anastasia Reed
 
-CYB 3343 - System Administration
+CYB 3353 - System Administration
 
 University of Tulsa
 
